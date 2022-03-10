@@ -1,4 +1,4 @@
 .metadata
 .recommenders
-.smoothingProject/bin
-.smoothingProject/.settings
+/smoothingProject/bin
+/smoothingProject/.settings
